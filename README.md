@@ -17,7 +17,7 @@ This repository accompanies a two-part video series demonstrating the developmen
 
 * **Part 2: Creating Data, Model, and Deployment**
   - [https://www.youtube.com/watch?v=ng15EVDrL28](https://www.youtube.com/watch?v=ng15EVDrL28)
-  - This video focuses on generating or collecting data, building a machine learning model (potentially with LLMs), persisting the data and model for deployment, and deploying the Flask app on PythonAnywhere.
+  - This video focuses on generating synthetic data, building a machine learning model (using LLMs), persisting the data and deploying the model using Flask app on PythonAnywhere.
 
 **Code Structure:**
 
