@@ -26,7 +26,7 @@ This repository may contain the following files or folders, depending on the spe
 * * `flask_app.py`: The main Flask application file generated after completing video 2.
 * * `01_ai_prompt_for_ml_model.txt`: The prompt used at the start of video 2 to generate the synthetic data and the machine learning model.
 * * `flask_app.py`: This is the main Python file for the Flask application, handling the routing, logic, and serving of web pages generated after completing video 2.
-* * `index.html`: This is the HTML file that defines the structure and content of the main page of the web application.
+* * `index.html`: This is the HTML file that defines the structure and content of the main page of the web application adapted from Grayscale Bootstrap template during the video 2.
 * * `startbootstrap-grayscale-gh-pages.zip`: This is a backup for the Grayscale Bootstrap template, the original can be downloaded from: [https://startbootstrap.com/previews/grayscale]
 
 
@@ -35,13 +35,7 @@ This repository may contain the following files or folders, depending on the spe
 
 1. Clone this repository.
 2. Follow along with the video tutorials and adapt the code to your desired application.
-3. Install any required Python libraries using `pip install`.
-4. Run the Flask app locally using `flask run`.
-5. Deploy the app to PythonAnywhere following their documentation.
 
-**Note:**
-
-The actual code in this repository may vary depending on the specific topics covered in the videos. Use this repository as a reference and adapt it to your project.
 
 **Additional Resources:**
 
