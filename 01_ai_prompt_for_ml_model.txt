@@ -1,0 +1,9 @@
+Create a python code for a logistic regression using three columns data frame. 
+First column discrete Time on books, second column Total Paid last 12 months as a continuous variable and third column Total Debt in Arrears as a continuous variable. 
+Target variable binary pay or not pay the debt.
+Generate all variables randomly using numpy.
+Set the seed so that all variables always get the same value.
+Save the data to an excel named fintech.xlsx without index.
+Split the data into train and test.
+Validate the model using classification report in both train and test data. 
+Dump the model into a file using joblib, call the file fintech.joblib
