@@ -2,7 +2,6 @@
 # A very simple Flask Hello World app for you to get started with...
 
 from flask import Flask, render_template, request, url_for, make_response, redirect, jsonify
-from functools import wraps
 import json
 
 app = Flask(__name__)
