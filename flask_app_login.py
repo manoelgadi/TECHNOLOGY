@@ -43,14 +43,11 @@ def siwe_restricted():
             return redirect(url_for('credentials_not_verified'))
     else:
         # TODO prevent unauthorized access: refactor with @login_required, sessions, etc.;
-        return render_template('siwe_restricted.html')
+        return render_template('index.html')
 
 
 @app.route('/credentials_not_verified')
 def credentials_not_verified():
-    return render_template('index.html')
+    return render_template('index_before_login.html')
 
-@app.route("/info")
-def info():
-    return render_template('info.html')
 
